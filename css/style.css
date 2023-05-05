@@ -1,0 +1,13 @@
+header {
+    height: 80px;
+    width: 100%;
+    background-color: blue;
+}
+
+
+nav {
+    width: 100px;
+    height: 100vh;
+    background-color: greenyellow;
+    
+}
