@@ -9,5 +9,20 @@ nav {
     width: 100px;
     height: 100vh;
     background-color: greenyellow;
+
+}
+
+.my_bg-black {
+
+    background-color: black;
+
     
+}
+
+.my_bg-pink {
+    background-color: pink;
+}
+
+.my_bg-red {
+    background-color: red;
 }
