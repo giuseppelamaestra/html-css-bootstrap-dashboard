@@ -23,7 +23,7 @@ main {
 
     height: 100%;
     width: calc(100% - 100px);
-    background-color: black;
+    
 
 }
 
@@ -39,9 +39,30 @@ ul li p {
     background-color: #1b72e8;
 }
 
+.my_main-header {
+    color: white;
+}
 
 
 
+@media screen and (min-width: 560px) {
+
+    div.box {
+        width: calc(100% / 3);
+    }
+
+    .my_boxes-wrap {
+        display: flex;
+    }
+
+
+
+
+
+
+
+
+}
 
 @media screen and (min-width: 960px) {
 
@@ -55,7 +76,7 @@ ul li p {
     
         height: 100%;
         width: calc(100% - 200px);
-        background-color: black;
+       
     
     }
 
@@ -63,6 +84,7 @@ ul li p {
         display: inline-block;
     }
     
+
 
 
     
