@@ -23,6 +23,14 @@ main {
 
 }
 
+.my_searchbar {
+    width: 80%;
+}
+
+
+
+
+
 @media screen and (min-width: 960px) {
 
     .my_sidebar {
@@ -42,4 +50,6 @@ main {
 
     
 }
+
+
 
