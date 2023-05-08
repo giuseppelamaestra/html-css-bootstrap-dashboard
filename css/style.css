@@ -12,7 +12,8 @@ main {
 .my_sidebar {
     height: 100%;
     width: 100px;
-    background-color: lime;
+    background-color: #051e34;
+    background-image: url(../imgs/sidebar-bg.png);
    
 }
 
@@ -37,7 +38,7 @@ main {
     .my_sidebar {
         height: 100%;
         width: 200px;
-        background-color: lime;
+        
     }
     
     .my_maincontent {
