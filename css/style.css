@@ -1,16 +1,32 @@
 header {
-    height: 80px;
-    width: 100%;
+    height: 70px;
+
     background-color: blue;
 }
 
 
-nav {
+main {
+    height: calc(100vh - 70px);
+}
+
+.my_sidebar {
+    height: 100%;
     width: 100px;
-    height: 100vh;
-    background-color: greenyellow;
+    background-color: lime;
+}
+
+.my_maincontent {
+
+    height: 100%;
+    width: calc(100% - 100px);
+    background-color: black;
 
 }
+
+
+
+
+
 
 .my_bg-black {
 
@@ -26,3 +42,5 @@ nav {
 .my_bg-red {
     background-color: red;
 }
+
+
